@@ -1,0 +1,19 @@
+
+.bg-background {
+    color: red;
+}
+
+.container-fluid a {
+    color: white;
+}
+
+.container-fluid a:hover {
+    color: rgb(187, 183, 183);
+}
+
+.navbar-brand {
+    margin-left: 30px;
+}
+.navbar-toggler{
+    color: white;
+}
