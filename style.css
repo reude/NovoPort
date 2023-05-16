@@ -5,10 +5,14 @@
 
 body{
     background-color: rgb(173, 171, 171);
-
 }
 
 /* CSS header */
+
+.navbar-nav p{
+    color: white;
+    padding-top: 7px;
+}
 
 a.navbar-brand{
     margin: auto;
@@ -20,11 +24,13 @@ button.btn.btn-outline-light{
 }
 
 .container-fluid{
-    padding: 7px 30px;
+    padding: 9px 30px 3px 30px;
 }
 
 .navbar.navbar-expand-lg.bg-dark{
     border-bottom: 2px solid white;
+    padding: 0;
+    margin: 0;
 }
 
 .container-fluid a {
@@ -34,10 +40,14 @@ button.btn.btn-outline-light{
 .container-fluid a:hover {
     color: rgb(187, 183, 183);
 }
-
+.navbar-brand{
+    padding: none;
+    margin-top: 0;
+}
 .navbar-brand button{
     margin-left: 5px;
     font-size: 14px;
+    padding: auto;
 }
 
 .navbar-toggler{
