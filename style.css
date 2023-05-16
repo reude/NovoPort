@@ -1,6 +1,30 @@
+*{  margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
 
-.bg-background {
-    color: red;
+body{
+    background-color: rgb(173, 171, 171);
+
+}
+
+/* CSS header */
+
+a.navbar-brand{
+    margin: auto;
+    padding: auto;
+}
+
+button.btn.btn-outline-light{
+    padding: auto;
+}
+
+.container-fluid{
+    padding: 7px 30px;
+}
+
+.navbar.navbar-expand-lg.bg-dark{
+    border-bottom: 2px solid white;
 }
 
 .container-fluid a {
@@ -11,9 +35,80 @@
     color: rgb(187, 183, 183);
 }
 
-.navbar-brand {
-    margin-left: 30px;
+.navbar-brand button{
+    margin-left: 5px;
+    font-size: 14px;
 }
+
 .navbar-toggler{
     color: white;
+}
+
+.navbar-nav{
+    font-size: 13px;
+}
+
+/* Main */
+
+.geral{
+    display: flex;
+}
+
+.corpo{
+    padding: 70px 0px 0px 70px;
+}
+
+.nome{
+    font-size: 23px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.nome span{
+    color: rgb(255, 255, 48);
+
+}
+
+#textomain{
+    font-size: 16;
+    color: black;
+}
+
+.imagem img{
+    width: 270px;
+    margin: 70px 280px 0px 150px;
+}
+
+/* CSS footer */
+
+.menuf.bg-dark.text-center.text-white{
+    padding: none;
+    border-top: 2px solid white;
+}
+
+.menuf a{
+    text-decoration: none;
+    border-radius: 13px;
+    padding: 6px 11px;
+}
+
+.menuf{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+section.mb-4{
+    padding: auto;
+    margin: 0;
+    width: auto;
+    padding: 0;
+}
+
+.copy{
+    padding: 100px;
+}
+
+.text-white{
+    margin: auto;
 }
