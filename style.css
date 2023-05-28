@@ -4,10 +4,9 @@
     font-family: 'Poppins', sans-serif;
 }
 html{
-    height: 100%;
     box-sizing: border-box;
+    height: 100%;
 }
-
 body {
     background-color: rgb(173, 171, 171);
     position: relative;
@@ -17,8 +16,8 @@ body {
     box-sizing: inherit;
 }
 
-::-webkit-scrollbar{
-    display: none;
+#teste{
+    margin-top: 10000px;
 }
 
 /* CSS header */
