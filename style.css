@@ -22,6 +22,10 @@ body {
 
 /* CSS header */
 
+#borda{
+    border: 2px solid white;
+}
+
 .navbar-nav p {
     font-size: 20px;
     padding-top: 7px;
