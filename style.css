@@ -16,10 +16,6 @@ body {
     box-sizing: inherit;
 }
 
-#teste{
-    margin-top: 10000px;
-}
-
 /* CSS header */
 
 #borda{
@@ -78,6 +74,10 @@ button.btn.btn-outline-light {
 }
 
 /* Main */
+
+.tamanho{
+    font-size: 41px;
+}
 
 .display-6.fw-bold.text-body-emphasis.lh-1.mb-4 {
     margin-top: 10px;
