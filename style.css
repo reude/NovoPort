@@ -18,6 +18,41 @@ body {
 
 /* CSS header */
 
+.podtext{
+    padding: 0;
+}
+.video{
+    width: 700px;
+    margin: auto;
+}
+
+#nemail{
+    font-size: 23px;
+}
+
+.ling{
+    color: gold;
+}
+
+.cardimg{
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.paddingimg{
+   margin-right: 5px;
+}
+
+.inicio{
+    border-bottom: 1px solid gold;
+    color: gold;
+}
+
+.container{
+    margin-top: 30px;
+}
+
 #borda{
     border: 2px solid white;
 }
