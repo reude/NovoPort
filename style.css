@@ -18,6 +18,10 @@ body {
 
 /* CSS header */
 
+.contato{
+    padding-bottom: 10px;
+}
+
 .podtext{
     padding: 0;
 }
