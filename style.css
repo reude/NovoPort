@@ -176,6 +176,10 @@ button.btn.btn-outline-light {
     margin-bottom: 20px;
 }
 
+.featurette-divider{
+    margin: 40px 0;
+}
+
 /* Footer */
 
 .menuf{
