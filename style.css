@@ -142,6 +142,10 @@ button.btn.btn-outline-light {
 
 /* Carousel */
 
+.p-sobre{
+    margin-bottom: 100px;
+}
+
 #carouselExampleDark{
     border-bottom: 1px solid black;
 }
